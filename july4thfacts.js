@@ -89,6 +89,9 @@ var handlers = {
   ]
 }
 /*
+
+http://bit.ly/jr4thfacts
+
 GetNewFactIntent tell me a fourth of july fact
 GetNewFactIntent give me a fourth of july fact
 GetNewFactIntent I want a fourth of july fact
