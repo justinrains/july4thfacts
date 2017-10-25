@@ -1,5 +1,5 @@
-# july4thfacts
-Alexa skill template for my July 4th facts.
+# Newark, OH facts
+Alexa skill template for my Newark, OH facts.
 
 ## About
 Created as a started to help me get going. Images and howto language coming soon. watch [my site](http://justinrains.com) for details.
